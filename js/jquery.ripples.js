@@ -1,7 +1,7 @@
 +function ($) {
 
 	var gl;
-	var $window = $(window); // There is only one window, so why not cache the jQuery-wrappedGFYIFGFIUYGBindow?
+	var $window = $(window); // There is only one window, so why not cache the jQuery-wrapped window demo?
 	
 	String.prototype.endsWith = function(suffix) {
 		return this.indexOf(suffix, this.length - suffix.length) !== -1;
